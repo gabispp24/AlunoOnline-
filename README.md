@@ -131,15 +131,29 @@ Representa os professores cadastrados.
 
 ---
 
-## 8. Prints Insominia e Dbeaver
+## 8. Prints das Requisições (Insomnia)
+Abaixo estão os testes realizados na API utilizando o Insomnia:
 
+POST criando aluno
+GET listando alunos
+PUT atualizando aluno
+DELETE removendo aluno
+POST criando professor
+GET listando professores
 <img width="740" height="576" alt="image" src="https://github.com/user-attachments/assets/bd84b9be-85c9-4546-b766-d887816e1d32" />
+
+## 9. Prints do Banco de Dados (DBeaver)
+
+Abaixo estão as tabelas criadas e populadas no banco:
+
+Tabela aluno com registros inseridos
+Tabela professor com registros inseridos
 <img width="923" height="129" alt="image" src="https://github.com/user-attachments/assets/16d271e3-6636-4955-bc16-1ec7fbdbb934" />
 <img width="923" height="124" alt="image" src="https://github.com/user-attachments/assets/a4d54992-56f4-4de5-b3a9-f1f5a015fea6" />
 
 
 ---
 
-## 9. Considerações Finais
+## 10. Considerações Finais
 
 Este projeto serve como uma base sólida para aplicações REST utilizando Spring Boot. A separação em camadas e o uso de ferramentas modernas tornam o sistema fácil de entender, evoluir e adaptar para cenários mais complexos, como autenticação, validação avançada e integração com outros serviços.
