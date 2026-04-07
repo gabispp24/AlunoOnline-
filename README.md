@@ -131,9 +131,11 @@ Representa os professores cadastrados.
 
 ---
 
-## 8. Endpoints Disponíveis
+## 8. Prints Insominia e Dbeaver
 
 <img width="740" height="576" alt="image" src="https://github.com/user-attachments/assets/bd84b9be-85c9-4546-b766-d887816e1d32" />
+<img width="923" height="129" alt="image" src="https://github.com/user-attachments/assets/16d271e3-6636-4955-bc16-1ec7fbdbb934" />
+<img width="923" height="124" alt="image" src="https://github.com/user-attachments/assets/a4d54992-56f4-4de5-b3a9-f1f5a015fea6" />
 
 
 ---
